@@ -52,8 +52,38 @@ export const SAMPLE_CLIPS: AudioClip[] = [
     file: '/assets/audio/Shadow the Hedgehog - Im the Coolest.mp3',
   },
   {
-    id: 'clip7',
+    id: 'clip9',
     name: 'SNOOPING AS USUAL I SEE',
     file: '/assets/audio/SNOOPING AS USUAL I SEE.mp3',
+  },
+  {
+    id: 'clip10',
+    name: 'Canon Event',
+    file: '/assets/audio/Miguel O Hara SFX.mp3',
+  },
+  {
+    id: 'clip11',
+    name: 'Woooo Yeah Baby',
+    file: '/assets/audio/Woooo Yeah Baby.mp3',
+  },
+  {
+    id: 'clip12',
+    name: 'Yippee Sound Effect',
+    file: '/assets/audio/Yippee Sound Effect.mp3',
+  },
+  {
+    id: 'clip13',
+    name: 'Fatality',
+    file: '/assets/audio/Fatality.mp3',
+  },
+  {
+    id: 'clip14',
+    name: 'Bob-omb Sound Effect',
+    file: '/assets/audio/Bob-omb Sound Effect.mp3',
+  },
+  {
+    id: 'clip15',
+    name: 'Objection',
+    file: '/assets/audio/Objection.mp3',
   },
 ]; 
