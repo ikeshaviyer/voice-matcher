@@ -36,4 +36,24 @@ export const SAMPLE_CLIPS: AudioClip[] = [
     name: 'Boo Laugh',
     file: '/assets/audio/Boo Laugh.mp3',
   },
+  {
+    id: 'clip6',
+    name: 'Yoshi Eat',
+    file: '/assets/audio/Yoshi Eat.mp3',
+  },
+  {
+    id: 'clip7',
+    name: 'Yoshi OWOWOW',
+    file: '/assets/audio/Yoshi Owowowow.mp3',
+  },
+  {
+    id: 'clip8',
+    name: 'Shadow the Hedgehog - Im the Coolest',
+    file: '/assets/audio/Shadow the Hedgehog - Im the Coolest.mp3',
+  },
+  {
+    id: 'clip7',
+    name: 'SNOOPING AS USUAL I SEE',
+    file: '/assets/audio/SNOOPING AS USUAL I SEE.mp3',
+  },
 ]; 
